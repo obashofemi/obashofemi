@@ -33,6 +33,16 @@ Automation & Monitoring:
   - Prometheus, Grafana, ELK Stack, tfsec, Checkov, SonarQube
 ```
 
+<!---
+💼 **Selected Projects & Labs**
+
+(Public repositories coming soon. Some are internal or under NDA)
+
+- 🔐 multi-cloud-security-baseline: A baseline framework for securing multi-cloud deployments with IaC
+- 🔐 ztna-aws-gcp: Zero Trust deployment across AWS and GCP with VPN-less remote access using SASE tools
+-	🔐 terraform-key-management: Automating KMS lifecycle (generation, rotation, revocation) for AWS & Azure
+-	🔐 cloud-security-posture-audit: CI/CD-integrated CSPM scripts for compliance assurance and alerting
+
 ---
 
 📄 **Certifications**
@@ -55,6 +65,7 @@ Automation & Monitoring:
 | LPIC-3 | Linux Professional Institute | Enterprise Linux|
 | Aviatrix ACE (Pro, Automation, Security) | Aviatrix | Multicloud Networking|
 
+--->
 
 ---
 
